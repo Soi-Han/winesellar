@@ -1,3 +1,3 @@
 # winesellar
 
-SpringBoot, JPA, MySQL, 를 이용한 API
+SpringBoot, JPA, MySQL를 이용한 API
